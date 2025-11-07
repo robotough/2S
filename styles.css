@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+
+  background-color: #000000;
+  color: #ffffff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-family: 'Consolas', monospace;
+  font-size: 21px;
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+ font-family: 'Consolas', monospace;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.counter {
+  font-family: 'Consolas', monospace;
+  color: #ffffff;
+  font-size: 14pxm;
+  font-weight: bold;
+  margin-top: 10px;
+}
